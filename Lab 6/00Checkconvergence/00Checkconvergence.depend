@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1708687506 source:c:\filippa\ireland round 2\university\cs319 scientific computing\week 7\00checkconvergence\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+
+1709296824 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 6\00checkconvergence\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	<time.h>
+

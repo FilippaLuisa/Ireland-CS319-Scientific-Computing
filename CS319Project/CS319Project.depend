@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1712160812 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\cs319project\graph.cpp
+	<iostream>
+	<unordered_set>
+	"Vector10.h"
+	"Matrix10.h"
+	"Graph.h"
+
+1712168815 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\cs319project\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<string>
+	<time.h>
+	"Vector10.h"
+	"Matrix10.h"
+	"Graph.h"
+
+1712145836 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\cs319project\matrix10.cpp
+	<iostream>
+	"Vector10.h"
+	"Matrix10.h"
+
+1710324262 c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\cs319project\vector10.h
+	<iostream>
+
+1711102236 c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\cs319project\matrix10.h
+	"Vector10.h"
+
+1710578884 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\cs319project\vector10.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	"Vector10.h"
+
+1712064687 c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\cs319project\graph.h
+	"Matrix10.h"
+	"Vector10.h"
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1711121913 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\lab 8 jacobi\matrix10.cpp
+	<iostream>
+	"Vector10.h"
+	"Matrix10.h"
+
+1710320662 c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\lab 8 jacobi\vector10.h
+	<iostream>
+
+1711120766 c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\lab 8 jacobi\matrix10.h
+	"Vector10.h"
+
+1710575284 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\lab 8 jacobi\vector10.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	"Vector10.h"
+
+1710506440 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\lab 8 jacobi\lab 8 jacobi main.cpp
+	<iostream>
+	<cmath>
+	"Vector10.h"
+	"Matrix10.h"
+
+1711123522 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 8\lab 8 jacobi\main.cpp
+	<iostream>
+	<cmath>
+	"Vector10.h"
+	"Matrix10.h"
+

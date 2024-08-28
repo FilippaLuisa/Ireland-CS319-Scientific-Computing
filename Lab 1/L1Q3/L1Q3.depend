@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706270344 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab1\l1q3\main.cpp
+	<iostream>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708197748 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 3-4\bisectionandnewton\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

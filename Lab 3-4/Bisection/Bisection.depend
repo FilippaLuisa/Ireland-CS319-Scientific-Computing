@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707992334 source:c:\filippa\ireland round 2\university\cs319 scientific computing\labs\lab 3-4\bisection\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
